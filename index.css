@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+ body {
+      background-color:white; /* Set a dark background color for the body */
+      font-family: calibri;
+    }
+
+    /* Customize the navbar color */
+    .navbar-dark {
+      background-color: #343a40;
+    }
+
+    /* Customize the navbar link color */
+    .navbar-dark .navbar-nav .nav-link {
+      color: #ffffff; /* Set the text color to white */
+    }
+
+    /* Customize the active link color */
+    .navbar-dark .navbar-nav .nav-item.active .nav-link {
+      color: #f8f9fa; /* Set the active link text color */
+    }
+
+
+.navbar-dark .navbar-nav {
+      width: 100%;
+      display: flex;
+      justify-content: space-around; /* Adjust the value to control the spacing between items */
+    }
+
+
+#main{
+  font-family: calibri;
+	padding: 4px;
+	font-size: 1.3em;
+	background-color: lightgrey;
+}
+
+
+
+
+
+
